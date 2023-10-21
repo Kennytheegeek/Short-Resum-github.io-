@@ -196,7 +196,7 @@ div .date{
 }
 .jobdate{
     font-weight:bold;
-    font-size:2.2em;
+    font-size:1.7em;
     letter-spacing :4px;
     padding-top:6px;
     /*border:1px solid red;*/
@@ -211,11 +211,11 @@ div .date{
 .jobtitle{
     text-decoration :underline;
     font-style:italic;
-    font-size:2.5em;
+    font-size:1.5em;
 }
 .jobdesc{
     padding-top:6px;
-    font-size:2.0em;
+    font-size:1.3em;
     overflow :auto;  
 }
 
