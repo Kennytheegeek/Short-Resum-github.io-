@@ -251,7 +251,7 @@ footer{
     padding:30px;
 }
 /* Media Query */
-@media(max-width:800px){
+@media(max-width:720px){
     .intro{
         padding:10px;
     }
