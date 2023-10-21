@@ -251,7 +251,7 @@ footer{
     padding:30px;
 }
 /* Media Query */
-@media(max-width:700px){
+/*@media(max-width:700px){
     .intro{
         padding:10px;
     }
@@ -341,4 +341,4 @@ footer{
     body{
         overflow-x:hidden;
     }
-}
+}*/
